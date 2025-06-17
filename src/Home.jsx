@@ -35,8 +35,7 @@ export default function Home() {
                     className="absolute top-0 left-0 w-full h-full object-cover z-[-1]"
                 >
                     <source
-                        src="https://videos.openai.com/vg-assets/assets%2Ftask_01jmds8w0penrveccqsad8p6g0%2Ftask_01jmds8w0penrveccqsad8p6g0_genid_e48f79d0-51e0-41bd-8656-f0135acbe36e_25_02_19_00_21_286105%2Fvideos%2F00000_709895284%2Fsource.mp4?st=2025-05-15T15%3A50%3A12Z&se=2025-05-21T16%3A50%3A12Z&sks=b&skt=2025-05-15T15%3A50%3A12Z&ske=2025-05-21T16%3A50%3A12Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=3d249c53-07fa-4ba4-9b65-0bf8eb4ea46a&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=X1OuelvLJ9AHZsKdPbEGLoNjICiebBvtMIZ9m%2BHtu1E%3D&az=oaivgprodscus"
-                        type="video/mp4"
+                        src="Video1.mp4"
                     />
                 </video>
 
@@ -91,7 +90,7 @@ export default function Home() {
                     className="absolute top-0 left-0 w-full h-full object-cover z-[-1]"
                 >
                     <source
-                        src="https://videos.openai.com/vg-assets/assets%2Ftask_01jp671fdtfw69anpptgd9hwhp%2Ftask_01jp671fdtfw69anpptgd9hwhp_genid_04d38f36-2d52-424f-82ba-eaaa4baeef38_25_03_12_22_19_001535%2Fvideos%2F00000_543540813%2Fsource.mp4?st=2025-05-15T16%3A14%3A45Z&se=2025-05-21T17%3A14%3A45Z&sks=b&skt=2025-05-15T16%3A14%3A45Z&ske=2025-05-21T17%3A14%3A45Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=3d249c53-07fa-4ba4-9b65-0bf8eb4ea46a&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=oxLQnKFJtmfzJTl7ZXA0TbeTs6xyb1FepbACksaXsOs%3D&az=oaivgprodscus"
+                        src="video2.mp4"
                         type="video/mp4"
                     />
                 </video>
