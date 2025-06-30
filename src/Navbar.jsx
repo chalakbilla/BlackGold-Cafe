@@ -19,9 +19,8 @@ function Navbar() {
           </a>
         </li>
         <li>
-          <a href="#our-courses" className="text-white hover:text-gray-200 transition-colors">
-            Our Courses
-          </a>
+          <Link to="/OurCourses" className="text-white hover:text-gray-200 transition-colors">Our Courses</Link>
+
         </li>
         <li>
           <a href="#our-coffee" className="text-white hover:text-gray-200 transition-colors">

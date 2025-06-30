@@ -5,7 +5,8 @@ import Footer from "./Footer.jsx";
 import Tour from "./Tour.jsx";
 import Signup from "./Signup.jsx";
 import Login from "./Login.jsx";
-import Log from "./Log.jsx"; // Import Log component
+import Log from "./Log.jsx";
+import OurCourses from "./OurCourses.jsx";
 
 function App() {
   return (
@@ -16,7 +17,8 @@ function App() {
         <Route path="/Tour" element={<Tour />} />
         <Route path="/Signup" element={<Signup />} />
         <Route path="/Login" element={<Login />} />
-        <Route path="/Log" element={<Log />} /> {/* Add Log route */}
+        <Route path="/Log" element={<Log />} />
+        <Route path="/OurCourses" element={<OurCourses />} />
       </Routes>
       <Footer />
     </Router>
