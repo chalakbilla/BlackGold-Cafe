@@ -32,11 +32,11 @@ function Navbar() {
             Tour
           </Link>
         </li>
-        <li>
+        {/* <li>
           <Link to="/Log" className="text-white hover:text-gray-200 transition-colors">
             Log
           </Link>
-        </li>
+        </li> */}
       </ul>
     </nav>
   );
